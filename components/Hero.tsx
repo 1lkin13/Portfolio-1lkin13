@@ -42,7 +42,7 @@ const Hero = () => {
             title="Download My CV"
             icon={<FaLocationArrow />}
             position="right"
-             downloadUrl="/İlkin Emiraslanov - Frontend Developer - Resume.pdf"
+             downloadUrl="/İlkin Emiraslanov - Frontend Developer Resume.pdf"
           />
         </a>
       </div>
